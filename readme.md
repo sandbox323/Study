@@ -11,15 +11,6 @@
 <br>  
 
 <p align="center">
-매일매일 꾸준히 공부한 내용을 각자 커밋하기! <br>
+공부한 내용을 각자 커밋하기! <br>
 각자 개인의 폴더에서 자신의 공부한 내용을 커밋 해주세요!
 </p>
- 
- ---
-
-<h2 align="center">바로가기</h2>
-
-<p align="center">
-- <a href="https://github.com/sandbox323/Study/김동현">동현이의 폴더</a><br />
-- <a href="https://github.com/sandbox323/Study/황윤서">윤서의 폴더</a><br />
-- <a href="https://github.com/sandbox323/Study/정유빈">유빈이의 폴더</a><br />
